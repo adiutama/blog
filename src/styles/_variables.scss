@@ -1,0 +1,34 @@
+// Colors
+
+$red-400: #c62641;
+$green-400: #16a085;
+
+$grey-400: #444444;
+$grey-700: #333333;
+$grey-100: #888888;
+
+
+$color__default: $grey-400;
+$color__secondary: white;
+$color__light: $grey-100;
+$color__bold: $grey-700;
+$color__accent: $green-400;
+
+$font-size__default: 16px;
+$font-size--header__default: 11px;
+$font-size--header__heading: 28px;
+$font-size--content__heading: 15px;
+$font-size--post__heading: 35px;
+
+$font-family__default: 'Domine';
+$font-family__accent: 'Josefin Sans';
+
+$background__default: #f8f8f8;
+$background__accent: $color__accent;
+
+$width__default: 90%;
+$width__max: 1150px;
+$width--content__default: 100%;
+$width--content__max: 1170px;
+
+$padding__default: 10px;
